@@ -1,0 +1,14 @@
+{
+  "cta_primary": "Choose a package",
+  "cta_secondary": "View cases",
+  "segments": {
+    "startup": "Startups & Digital",
+    "smb": "SMB",
+    "creators": "Creators & Personal Brands",
+    "edtech": "EdTech",
+    "edu": "Education programs",
+    "investors": "Investors",
+    "corp": "Corporations",
+    "gov": "Government & NGOs"
+  }
+}
