@@ -1,0 +1,27 @@
+[
+  {
+    "tool": "Notion",
+    "items": [
+      "ICP",
+      "JTBD",
+      "Процессы",
+      "Чек-листы"
+    ]
+  },
+  {
+    "tool": "Figma",
+    "items": [
+      "CJM",
+      "Roadmap",
+      "UI-макеты"
+    ]
+  },
+  {
+    "tool": "BI",
+    "items": [
+      "Финмодель",
+      "ROI-дэшборды",
+      "Cohort/Retention"
+    ]
+  }
+]

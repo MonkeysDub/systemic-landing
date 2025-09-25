@@ -1,0 +1,32 @@
+[
+  {
+    "packageId": "lite",
+    "name": "Lite",
+    "price": "300000",
+    "features": [
+      "Аналитика",
+      "Roadmap",
+      "Базовый запуск"
+    ]
+  },
+  {
+    "packageId": "pro",
+    "name": "Pro",
+    "price": "900000",
+    "features": [
+      "Полный ЖЦП",
+      "Внедрение CRM/BI",
+      "Unit-экономика"
+    ]
+  },
+  {
+    "packageId": "enterprise",
+    "name": "Enterprise",
+    "price": "3000000",
+    "features": [
+      "Governance",
+      "Stage-gates",
+      "Портфель продуктов"
+    ]
+  }
+]
